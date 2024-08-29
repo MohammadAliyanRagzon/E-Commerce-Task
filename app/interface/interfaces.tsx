@@ -21,12 +21,13 @@ export interface Product {
   price: string;
 }
 
+
 export interface CartItem {
-  productId: string | undefined;
-  productName: string | undefined;
-  price: string | undefined;
-  size: string | undefined;
-  color: string | undefined;
+  productId: string;
+  productName: string;
+  price: number;
+  size: string;
+  color: string;
 }
 
 export interface UserState {
