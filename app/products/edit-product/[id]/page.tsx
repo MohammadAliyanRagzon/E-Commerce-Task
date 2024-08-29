@@ -11,7 +11,11 @@ interface EditProductFormProps {
   };
 }
 
-const EditProductForm: React.FC<EditProductFormProps> = ({ params }) => {
+const EditProductForm: React.FC<EditProductFormProps> = ({
+  params,
+}: {
+  params: { id: string };
+}) => {
   const [formData, setFormData] = useState<FormData>({
     productName: "",
     price: "",
