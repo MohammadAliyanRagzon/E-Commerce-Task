@@ -1,5 +1,6 @@
 "use client";
 import { Product } from "@/app/interface/interfaces";
+import { RootState } from "@/app/redux/store";
 import { addToCart } from "@/app/redux/userSlice";
 import { api, routes } from "@/app/routes/routes";
 import axios from "axios";
