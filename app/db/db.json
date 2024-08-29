@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "productName": "Striped Navy Tee",
+      "price": "25.99",
+      "description": "A stylish navy T-shirt with subtle stripes.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy",
+        "White"
+      ],
+      "id": "8"
+    },
+    {
+      "id": "3",
+      "productName": "Classic White Tee",
+      "price": "19.99",
+      "description": "A versatile and comfortable classic white T-shirt.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White"
+      ]
+    },
+    {
+      "id": "5",
+      "productName": "Graphic Black Hoodie",
+      "price": "39.99",
+      "description": "A cozy black hoodie with a bold graphic print.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Black",
+        "Grey"
+      ]
+    },
+    {
+      "id": "12",
+      "productName": "Slim Fit Denim Jacket",
+      "price": "49.99",
+      "description": "A trendy slim-fit denim jacket perfect for layering.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ]
+    },
+    {
+      "id": "20",
+      "productName": "Casual Olive Pants",
+      "price": "34.99",
+      "description": "Comfortable olive pants for a relaxed look.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Olive",
+        "Beige"
+      ]
+    },
+    {
+      "id": "25",
+      "productName": "Elegant Red Dress",
+      "price": "59.99",
+      "description": "An elegant red dress perfect for formal occasions.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Red",
+        "Black"
+      ]
+    },
+    {
+      "id": "30",
+      "productName": "Light Grey Sweatshirt",
+      "price": "29.99",
+      "description": "A comfortable light grey sweatshirt for casual wear.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Grey",
+        "Charcoal"
+      ]
+    },
+    {
+      "id": "35",
+      "productName": "Beige Chinos",
+      "price": "44.99",
+      "description": "Versatile beige chinos ideal for a smart-casual look.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Beige",
+        "Navy"
+      ]
+    },
+    {
+      "id": "40",
+      "productName": "Floral Maxi Skirt",
+      "price": "49.99",
+      "description": "A flowy floral maxi skirt perfect for summer outings.",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Floral",
+        "Black"
+      ]
+    },
+    {
+      "id": "45",
+      "productName": "Leather Biker Jacket",
+      "price": "89.99",
+      "description": "A classic leather biker jacket for a rugged look.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Black",
+        "Brown"
+      ]
+    },
+    {
+      "id": "50",
+      "productName": "Striped Boat Neck Top",
+      "price": "27.99",
+      "description": "A chic boat neck top with stripes for a nautical touch.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "White/Blue",
+        "White/Red"
+      ]
+    }
+  ]
+}
