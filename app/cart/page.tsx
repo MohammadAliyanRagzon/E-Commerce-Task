@@ -2,9 +2,9 @@
 import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { FaTrash } from "react-icons/fa";
-import { RootState } from "@reduxjs/toolkit/query";
 import { deleteFromCart } from "../redux/userSlice";
 import { toast } from "react-toastify";
+import { RootState } from "../redux/store";
 
 export default function Cart() {
   const cart = useSelector((state: RootState) => state.user.cart);

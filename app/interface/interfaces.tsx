@@ -21,11 +21,10 @@ export interface Product {
   price: string;
 }
 
-
 export interface CartItem {
   productId: string;
   productName: string;
-  price: number;
+  price: string;
   size: string;
   color: string;
 }

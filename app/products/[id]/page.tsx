@@ -1,5 +1,6 @@
 "use client";
 import { Product } from "@/app/interface/interfaces";
+import { RootState } from "@/app/redux/store";
 import { addToCart } from "@/app/redux/userSlice";
 import { api, routes } from "@/app/routes/routes";
 import axios from "axios";
@@ -40,7 +41,7 @@ export default function Page({ params }: { params: { id: string } }) {
       return;
     }
 
-    const cartData = {
+    const cartData: any = {
       productId: product?.id,
       productName: product?.productName,
       price: product?.price,
@@ -49,6 +50,7 @@ export default function Page({ params }: { params: { id: string } }) {
     };
 
     dispatch(addToCart(cartData));
+
     toast.success(`Added to Cart: ${JSON.stringify(cartData.productName)}`);
   };
 
