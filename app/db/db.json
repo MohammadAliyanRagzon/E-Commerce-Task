@@ -155,22 +155,6 @@
         "Black",
         "Brown"
       ]
-    },
-    {
-      "id": "50",
-      "productName": "Striped Boat Neck Top",
-      "price": "27.99",
-      "description": "A chic boat neck top with stripes for a nautical touch.",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L"
-      ],
-      "colors": [
-        "White/Blue",
-        "White/Red"
-      ]
     }
   ]
 }
